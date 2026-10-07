@@ -1,0 +1,10 @@
+{
+  "entities": {
+    "Veranstaltungsanmeldung": {
+      "placeholders_set": 3,
+      "defaults_keys": [],
+      "computed_keys": [],
+      "reason": "Keine Formeln, da das Formular nur Kontaktdaten und eine Bestätigung enthält und keine numerischen Felder oder Datumspaare vorhanden sind."
+    }
+  }
+}

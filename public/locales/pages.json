@@ -1,0 +1,21 @@
+{
+  "pages": {
+    "en": {
+      "Anmeldung erfassen": "Add registration",
+      "Anmeldungen": "Registrations",
+      "Bestätigt": "Confirmed",
+      "Erste Anmeldung erfassen": "Add first registration",
+      "Keine Anmeldung passt zu deiner Auswahl.": "No registration matches your selection.",
+      "Name oder E-Mail suchen": "Search name or email",
+      "Neu (7 Tage)": "New (7 days)",
+      "Neueste Anmeldungen": "Latest registrations",
+      "Noch hat sich niemand angemeldet — sobald die Anmeldeseite geteilt ist, erscheinen die Personen hier.": "No one has registered yet — once the registration page is shared, people will appear here.",
+      "Noch keine Anmeldungen vorhanden.": "No registrations yet.",
+      "Offen": "Pending",
+      "Ohne Bestätigung": "Unconfirmed",
+      "Zuletzt angemeldet: {0} — {1} neue Anmeldungen in den letzten 7 Tagen.": "Last registered: {0} — {1} new registrations in the last 7 days.",
+      "Zuletzt angemeldet: {0}. In den letzten 7 Tagen ist niemand dazugekommen.": "Last registered: {0}. No one has joined in the last 7 days."
+    }
+  },
+  "v": 1
+}
