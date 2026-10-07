@@ -1,11 +1,14 @@
 {
   "pages": {
     "en": {
+      "Anmeldung": "Registration",
+      "Anmeldung eingegangen": "Registration received",
       "Anmeldung erfassen": "Add registration",
       "Anmeldungen": "Registrations",
       "Bestätigt": "Confirmed",
       "Erste Anmeldung erfassen": "Add first registration",
       "Keine Anmeldung passt zu deiner Auswahl.": "No registration matches your selection.",
+      "Mit dem Absenden ist deine Anmeldung verbindlich eingegangen.": "By submitting, your registration is binding.",
       "Name oder E-Mail suchen": "Search name or email",
       "Neu (7 Tage)": "New (7 days)",
       "Neueste Anmeldungen": "Latest registrations",
@@ -13,8 +16,13 @@
       "Noch keine Anmeldungen vorhanden.": "No registrations yet.",
       "Offen": "Pending",
       "Ohne Bestätigung": "Unconfirmed",
+      "Prüfen": "Review",
+      "Trage unten deinen Namen und deine E-Mail-Adresse ein und bestätige deine Anmeldung. Danach ist dein Platz verbindlich vorgemerkt.": "Enter your name and email address below and confirm your registration. Your spot will then be reserved.",
+      "Weitere Anmeldung": "Another registration",
+      "Wir laden dich herzlich zu unserer Veranstaltung ein. Erlebe ein abwechslungsreiches Programm mit Vorträgen, Austausch und Zeit zum Kennenlernen.": "We warmly invite you to our event. Enjoy a varied program of talks, discussion, and time to get to know each other.",
       "Zuletzt angemeldet: {0} — {1} neue Anmeldungen in den letzten 7 Tagen.": "Last registered: {0} — {1} new registrations in the last 7 days.",
-      "Zuletzt angemeldet: {0}. In den letzten 7 Tagen ist niemand dazugekommen.": "Last registered: {0}. No one has joined in the last 7 days."
+      "Zuletzt angemeldet: {0}. In den letzten 7 Tagen ist niemand dazugekommen.": "Last registered: {0}. No one has joined in the last 7 days.",
+      "Über das Programm": "About the program"
     }
   },
   "v": 1

@@ -1,0 +1,22 @@
+{
+  "version": 1,
+  "pages": [
+    {
+      "slug": "veranstaltung-anmeldung",
+      "component": "VeranstaltungAnmeldung",
+      "title": "Anmeldung zur Veranstaltung",
+      "endpoints": [
+        {
+          "entity": "veranstaltungsanmeldung",
+          "op": "create",
+          "fields": [
+            "vorname",
+            "nachname",
+            "email",
+            "anmeldung_bestaetigung"
+          ]
+        }
+      ]
+    }
+  ]
+}
